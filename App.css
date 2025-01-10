@@ -1,0 +1,15 @@
+.react-pdf__Page {
+  background-color: transparent !important;
+}
+.react-transform-wrapper {
+  width: 100%;
+  height: 100%;
+  background-color: #f8f8f8;
+}
+
+.MenuButtonPadding {
+  padding: 5px;
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+  }
+}
